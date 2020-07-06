@@ -1,0 +1,5 @@
+[09-Oct-2018 18:20:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/backend/views/post/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/backend/views/post/index.php on line 6
+[25-Oct-2018 01:00:54 UTC] PHP Fatal error:  Class 'Yii' not found in /home/boukler/public_html/backend/views/post/index.php on line 6

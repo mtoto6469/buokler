@@ -1,0 +1,10 @@
+[09-Oct-2018 19:46:26 UTC] PHP Fatal error:  Uncaught Error: Class 'yii' not found in /home/boukler/public_html/backend/views/layouts/main.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/backend/views/layouts/main.php on line 12
+[09-Oct-2018 19:46:44 UTC] PHP Fatal error:  Uncaught Error: Class 'backend\assets\AppAsset' not found in /home/boukler/public_html/backend/views/layouts/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/backend/views/layouts/login.php on line 13
+[23-Oct-2018 05:52:13 UTC] PHP Fatal error:  Class 'yii' not found in /home/boukler/public_html/backend/views/layouts/main.php on line 12
+[23-Oct-2018 05:57:16 UTC] PHP Fatal error:  Class 'backend\assets\AppAsset' not found in /home/boukler/public_html/backend/views/layouts/login.php on line 13

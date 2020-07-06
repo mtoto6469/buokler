@@ -1,0 +1,5 @@
+[09-Oct-2018 17:59:59 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/boukler/public_html/backend/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/backend/views/site/index.php on line 5
+[25-Oct-2018 00:50:48 UTC] PHP Fatal error:  Using $this when not in object context in /home/boukler/public_html/backend/views/site/index.php on line 5

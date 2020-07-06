@@ -1,0 +1,8 @@
+[09-Oct-2018 05:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/views/pardakht/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/views/pardakht/index.php on line 10
+[20-Oct-2018 11:24:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/views/pardakht/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/views/pardakht/index.php on line 10

@@ -1,0 +1,40 @@
+[11-Oct-2018 04:21:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/frontend/views/product/type.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/frontend/views/product/type.php on line 4
+[11-Oct-2018 04:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/frontend/views/product/brand.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/frontend/views/product/brand.php on line 4
+[11-Oct-2018 04:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/frontend/views/product/search.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/frontend/views/product/search.php on line 7
+[11-Oct-2018 04:37:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/frontend/views/product/create.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/frontend/views/product/create.php on line 9
+[11-Oct-2018 04:42:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/boukler/public_html/frontend/views/product/details.php on line 15
+[11-Oct-2018 04:42:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/boukler/public_html/frontend/views/product/details.php on line 30
+[11-Oct-2018 04:42:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/boukler/public_html/frontend/views/product/details.php on line 46
+[11-Oct-2018 04:42:10 UTC] PHP Fatal error:  Uncaught Error: Class 'frontend\models\TblcategoryProduct' not found in /home/boukler/public_html/frontend/views/product/details.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/frontend/views/product/details.php on line 59
+[11-Oct-2018 04:47:13 UTC] PHP Fatal error:  Uncaught Error: Class 'yii\widgets\ActiveForm' not found in /home/boukler/public_html/frontend/views/product/_search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/frontend/views/product/_search.php on line 13
+[11-Oct-2018 04:52:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/frontend/views/product/category.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/frontend/views/product/category.php on line 4
+[02-Nov-2018 20:16:48 UTC] PHP Fatal error:  Class 'Yii' not found in /home/boukler/public_html/frontend/views/product/type.php on line 4
+[02-Nov-2018 22:12:57 UTC] PHP Fatal error:  Class 'Yii' not found in /home/boukler/public_html/frontend/views/product/brand.php on line 4
+[02-Nov-2018 22:53:21 UTC] PHP Fatal error:  Class 'Yii' not found in /home/boukler/public_html/frontend/views/product/create.php on line 9
+[02-Nov-2018 23:08:30 UTC] PHP Fatal error:  Class 'Yii' not found in /home/boukler/public_html/frontend/views/product/search.php on line 7
+[02-Nov-2018 23:38:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/boukler/public_html/frontend/views/product/details.php on line 15
+[02-Nov-2018 23:38:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/boukler/public_html/frontend/views/product/details.php on line 30
+[02-Nov-2018 23:38:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/boukler/public_html/frontend/views/product/details.php on line 46
+[02-Nov-2018 23:38:48 UTC] PHP Fatal error:  Class 'frontend\models\TblcategoryProduct' not found in /home/boukler/public_html/frontend/views/product/details.php on line 59
+[03-Nov-2018 00:44:27 UTC] PHP Fatal error:  Class 'Yii' not found in /home/boukler/public_html/frontend/views/product/category.php on line 4

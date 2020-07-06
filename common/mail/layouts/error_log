@@ -1,0 +1,6 @@
+[09-Oct-2018 18:41:36 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/boukler/public_html/common/mail/layouts/text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/common/mail/layouts/text.php on line 10
+[03-Nov-2018 16:33:51 UTC] PHP Fatal error:  Using $this when not in object context in /home/boukler/public_html/common/mail/layouts/html.php on line 8
+[03-Nov-2018 16:38:54 UTC] PHP Fatal error:  Using $this when not in object context in /home/boukler/public_html/common/mail/layouts/text.php on line 10

@@ -1,0 +1,1 @@
+[26-Oct-2018 01:44:48 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/boukler/public_html/backend/assets/AppAsset.php on line 11

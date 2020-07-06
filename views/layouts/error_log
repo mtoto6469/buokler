@@ -1,0 +1,2 @@
+[21-Oct-2018 23:54:26 UTC] PHP Fatal error:  Class 'yii' not found in /home/boukler/public_html/views/layouts/main.php on line 12
+[22-Oct-2018 00:14:37 UTC] PHP Fatal error:  Class 'backend\assets\AppAsset' not found in /home/boukler/public_html/views/layouts/login.php on line 13

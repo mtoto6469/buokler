@@ -1,0 +1,8 @@
+[09-Oct-2018 06:03:48 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/boukler/public_html/frontend/assets/AppAsset.php on line 10
+[12-Oct-2018 02:52:11 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/boukler/public_html/frontend/assets/AppAssetlogin.php on line 10
+[12-Oct-2018 04:07:56 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/boukler/public_html/frontend/assets/AppAssetProfile.php on line 10
+[12-Oct-2018 10:26:42 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/boukler/public_html/frontend/assets/AppAssetPardakht.php on line 10
+[24-Oct-2018 21:24:08 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/boukler/public_html/frontend/assets/AppAssetlogin.php on line 11
+[24-Oct-2018 21:33:50 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/boukler/public_html/frontend/assets/AppAssetProfile.php on line 11
+[24-Oct-2018 21:43:57 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/boukler/public_html/frontend/assets/AppAssetPardakht.php on line 11
+[26-Oct-2018 02:10:03 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/boukler/public_html/frontend/assets/AppAsset.php on line 11

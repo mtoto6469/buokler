@@ -1,0 +1,2 @@
+[10-Oct-2018 12:10:57 UTC] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/boukler/public_html/console/migrations/m130524_201442_init.php on line 5
+[24-Oct-2018 23:35:03 UTC] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/boukler/public_html/console/migrations/m130524_201442_init.php on line 6

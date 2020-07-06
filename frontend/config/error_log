@@ -1,0 +1,11 @@
+[13-Oct-2018 03:57:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/common/config/params-local.php:3
+Stack trace:
+#0 /home/boukler/public_html/frontend/config/main.php(4): require()
+#1 {main}
+  thrown in /home/boukler/public_html/common/config/params-local.php on line 3
+[13-Oct-2018 05:27:55 UTC] PHP Fatal error:  Uncaught Error: Class 'yii\helpers\ArrayHelper' not found in /home/boukler/public_html/frontend/config/test-local.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/frontend/config/test-local.php on line 2
+[22-Oct-2018 00:44:55 UTC] PHP Fatal error:  Class 'Yii' not found in /home/boukler/public_html/common/config/params-local.php on line 3
+[24-Oct-2018 20:11:08 UTC] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/boukler/public_html/frontend/config/test-local.php on line 2

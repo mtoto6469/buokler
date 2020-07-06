@@ -1,0 +1,2 @@
+[09-Oct-2018 06:24:02 UTC] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/boukler/public_html/common/fixtures/UserFixture.php on line 6
+[24-Oct-2018 21:11:27 UTC] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/boukler/public_html/common/fixtures/UserFixture.php on line 7

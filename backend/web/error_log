@@ -1,0 +1,25 @@
+[14-Apr-2018 11:38:37 UTC] PHP Fatal error:  Class 'backend\models\upload' not found in /home/boukler/public_html/backend/controllers/SliderController.php on line 71
+[14-Apr-2018 11:38:51 UTC] PHP Fatal error:  Class 'backend\models\upload' not found in /home/boukler/public_html/backend/controllers/SliderController.php on line 107
+[17-Apr-2018 13:21:56 UTC] PHP Fatal error:  Class 'backend\models\upload' not found in /home/boukler/public_html/backend/controllers/SliderController.php on line 71
+[17-Apr-2018 13:50:14 UTC] PHP Fatal error:  Class 'backend\models\upload' not found in /home/boukler/public_html/backend/controllers/SliderController.php on line 71
+[21-Apr-2018 11:31:07 UTC] PHP Warning:  file_put_contents(): Only 0 of 39639 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 11:31:07 UTC] PHP Warning:  file_put_contents(): Only 0 of 40576 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 11:31:14 UTC] PHP Warning:  file_put_contents(): Only 0 of 39697 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 11:31:14 UTC] PHP Warning:  file_put_contents(): Only 0 of 40635 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 11:47:51 UTC] PHP Warning:  file_put_contents(): Only 0 of 39664 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 11:47:51 UTC] PHP Warning:  file_put_contents(): Only 0 of 40597 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 12:53:44 UTC] PHP Warning:  file_put_contents(): Only 0 of 40158 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 12:53:44 UTC] PHP Warning:  file_put_contents(): Only 0 of 41093 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 13:40:19 UTC] PHP Warning:  file_put_contents(): Only 0 of 40161 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 13:40:19 UTC] PHP Warning:  file_put_contents(): Only 0 of 41099 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 13:40:22 UTC] PHP Warning:  file_put_contents(): Only 0 of 40158 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 13:40:22 UTC] PHP Warning:  file_put_contents(): Only 0 of 41091 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 14:00:25 UTC] PHP Warning:  file_put_contents(): Only 0 of 39965 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 14:00:25 UTC] PHP Warning:  file_put_contents(): Only 0 of 40901 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 14:00:28 UTC] PHP Warning:  file_put_contents(): Only 0 of 40126 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 14:00:29 UTC] PHP Warning:  file_put_contents(): Only 0 of 41060 bytes written, possibly out of free disk space in /home/boukler/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[21-Apr-2018 14:10:52 UTC] PHP Warning:  file_put_contents(): Only 0 of 40168 bytes written, possibly out of free disk space in /home/boukler/public_ht[15-May-2018 12:05:47 UTC] PHP Fatal error:  Class 'backend\models\gallery' not found in /home/boukler/public_html/backend/controllers/GalleryController.php on line 85
+[18-May-2018 08:20:32 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/boukler/public_html/backend/models/TblSodorFactor.php on line 89
+[18-May-2018 08:20:52 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/boukler/public_html/backend/models/TblSodorFactor.php on line 89
+[18-May-2018 08:20:56 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/boukler/public_html/backend/models/TblSodorFactor.php on line 89
+[19-May-2018 09:49:31 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/boukler/public_html/backend/models/TblSodorFactor.php on line 89

@@ -1,0 +1,2 @@
+[09-Oct-2018 19:16:58 UTC] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/boukler/public_html/common/tests/_support/UnitTester.php on line 19
+[23-Oct-2018 06:27:34 UTC] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/boukler/public_html/common/tests/_support/UnitTester.php on line 20

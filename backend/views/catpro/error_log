@@ -1,0 +1,5 @@
+[09-Oct-2018 18:45:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/backend/views/catpro/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/backend/views/catpro/index.php on line 10
+[26-Oct-2018 20:48:09 UTC] PHP Fatal error:  Class 'Yii' not found in /home/boukler/public_html/backend/views/catpro/index.php on line 10

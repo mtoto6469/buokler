@@ -1,0 +1,6 @@
+[09-Oct-2018 05:03:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/common/config/params-local.php:3
+Stack trace:
+#0 /home/boukler/public_html/console/config/main.php(4): require()
+#1 {main}
+  thrown in /home/boukler/public_html/common/config/params-local.php on line 3
+[22-Oct-2018 00:04:31 UTC] PHP Fatal error:  Class 'Yii' not found in /home/boukler/public_html/common/config/params-local.php on line 3

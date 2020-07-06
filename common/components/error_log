@@ -1,0 +1,4 @@
+[13-Oct-2018 04:02:04 UTC] PHP Fatal error:  Class 'yii\base\Component' not found in /home/boukler/public_html/common/components/jdf.php on line 6
+[13-Oct-2018 04:52:34 UTC] PHP Fatal error:  Class 'yii\web\Request' not found in /home/boukler/public_html/common/components/Request.php on line 3
+[22-Oct-2018 01:20:16 UTC] PHP Fatal error:  Class 'yii\base\Component' not found in /home/boukler/public_html/common/components/jdf.php on line 7
+[24-Oct-2018 19:40:33 UTC] PHP Fatal error:  Class 'yii\web\Request' not found in /home/boukler/public_html/common/components/Request.php on line 3

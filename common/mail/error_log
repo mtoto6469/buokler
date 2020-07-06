@@ -1,0 +1,10 @@
+[09-Oct-2018 17:44:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/common/mail/passwordResetToken-html.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/common/mail/passwordResetToken-html.php on line 7
+[09-Oct-2018 17:49:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/common/mail/passwordResetToken-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/common/mail/passwordResetToken-text.php on line 6
+[24-Oct-2018 22:19:19 UTC] PHP Fatal error:  Class 'Yii' not found in /home/boukler/public_html/common/mail/passwordResetToken-text.php on line 6
+[24-Oct-2018 22:34:34 UTC] PHP Fatal error:  Class 'Yii' not found in /home/boukler/public_html/common/mail/passwordResetToken-html.php on line 7

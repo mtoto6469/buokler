@@ -1,0 +1,8 @@
+[09-Oct-2018 07:59:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/views/Categoryproduct/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/views/Categoryproduct/index.php on line 10
+[20-Oct-2018 13:18:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/views/Categoryproduct/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/views/Categoryproduct/index.php on line 10

@@ -1,0 +1,4 @@
+[20-Oct-2018 09:08:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/boukler/public_html/views/Brand/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/boukler/public_html/views/Brand/index.php on line 10

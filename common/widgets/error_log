@@ -1,0 +1,2 @@
+[09-Oct-2018 05:18:07 UTC] PHP Fatal error:  Class 'yii\bootstrap\Widget' not found in /home/boukler/public_html/common/widgets/Alert.php on line 25
+[22-Oct-2018 00:24:43 UTC] PHP Fatal error:  Class 'yii\bootstrap\Widget' not found in /home/boukler/public_html/common/widgets/Alert.php on line 26
